@@ -19,3 +19,13 @@
 *.exe
 *.out
 *.app
+*.user
+Debug/*
+Release/*
+ExportedDLL/Debug/*
+ExportedDLL/Release/*
+*.cxx
+*.opensdf
+*.sdf
+*.suo
+*.pyc
